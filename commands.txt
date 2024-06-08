@@ -1,0 +1,7 @@
+npm i -g @nestjs/cli // to install CLI, -g => global installation
+nest new lesson1 => choose npm
+open lesson1 folder from file manager
+npm run start:dev
+nest g module users => creates users folder
+nest g controller users
+nest g service users // provider
